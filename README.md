@@ -2,14 +2,29 @@
 
 This full-stack MERN (MongoDB, Express.js, React, Node.js) web application allows users to create, view, edit, and update blog posts. It provides a user-friendly interface for managing blog content and enables users to share their thoughts and ideas with the world.
 
+![Blog app 1](https://github.com/utkarsh-iitbhu/Blogify360-with-MERN/assets/84759422/ce60a869-9c5c-4bbc-9773-2d068f51b281)
+
+
 ### Features
+
 1. User Authentication: Users can sign up and log in to the app to create and manage their own blog posts.
+
+![Blog app login](https://github.com/utkarsh-iitbhu/Blogify360-with-MERN/assets/84759422/236102bd-edd5-4d31-bcd3-770b3243bbc3)
+
 
 2. Create and Edit Posts: Authenticated users can create new blog posts, add titles, summaries, and content, and edit existing posts.
 
+![Blog app 3](https://github.com/utkarsh-iitbhu/Blogify360-with-MERN/assets/84759422/c9299105-176c-4937-8629-79ff4e6b2fb0)
+
+
 3. View Posts: Users can browse through the list of blog posts and read the full content of each post.
 
-4. Responsive Design: The app is fully responsive and works seamlessly on various devices, including desktops, tablets.
+![Blog app 2](https://github.com/utkarsh-iitbhu/Blogify360-with-MERN/assets/84759422/b55d922d-8b30-4139-ae64-7c2fbdf57a1d)
+
+4. Responsive Design: The fully responsive app works seamlessly on various devices, including desktops and tablets.
+
+![Blog app database](https://github.com/utkarsh-iitbhu/Blogify360-with-MERN/assets/84759422/7699fc83-547b-4e82-975c-b25a91bb08fb)
+
 
 ### Tech Stack
 Frontend: React.js, HTML, CSS
